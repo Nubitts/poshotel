@@ -1,0 +1,17 @@
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\poshotel.exe.config
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\poshotel.exe
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\poshotel.pdb
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\poshotel.xml
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\Telerik.WinControls.dll
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\TelerikCommon.dll
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\Telerik.WinControls.xml
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.vbprojResolveAssemblyReference.cache
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.RadForm1.resources
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.Resources.resources
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.vbproj.GenerateResource.Cache
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.exe.licenses
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.exe
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.xml
+C:\Users\user_n\SkyDrive\Documentos\Nubitts\poshotel\poshotel\obj\x86\Debug\poshotel.pdb
